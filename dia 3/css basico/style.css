@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F9FAFB;
+    color:#1F2937;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    padding: 2rem;
+}
+
+h1{
+    color: #4338CA;
+    font-size: 2.25rem;
+    margin-bottom: 1rem;
+}
+
+.intro{
+    font-size: 1.15rem;
+    font-weight: 500;
+    color: #4B5563;
+    margin-bottom: 1.5rem;
+}
+
+#botao-destaque{
+    width: 300px;
+    height: 60px;
+    font-size: 1rem;
+    background-color: #10B981;
+    border-radius: 8px;
+    border: none;
+}
