@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: 0;
+    background: rgb(0, 0, 0);
+    color: beige;
+}
+img{
+    margin: 1rem;
+    padding: 2rem;
+    display: 0;
+    width: 10rem;
+}
+h1{
+    margin: 0.5rem;
+}
